@@ -43,8 +43,8 @@
 {
     "@context": "http://schema.org",
     "@type": "WebPage",
-    "name": "Eli Lilly and Company India",
-    "description": "Contact Eli Lilly India",
+    "name": "Contact Eli Lilly and India",
+    "description": "Contact Page for Eli Lilly India",
     "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/contactus.jpg",
     "inLanguage": "English",
     "headline": "Contact Us",
