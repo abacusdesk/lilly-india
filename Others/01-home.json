@@ -1,0 +1,30 @@
+<script type = "application/ld+json">
+	{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Eli Lilly and Company India",
+    "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+    "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+    "url": "https://www.lillyindia.co.in/",
+    "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+    "sameAs": [
+        	"https://twitter.com/LillyPad/",
+        	"https://www.facebook.com/elilillyandco/",
+        	"https://www.instagram.com/elilillyco/",
+        	"https://www.linkedin.com/company/eli-lilly-and-company/",
+        	"https://www.youtube.com/user/EliLillyandCompany/"
+    	]
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Eli Lilly and Company India",
+    "description": "Website Homepage for Eli Lilly and Company India",
+    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/home/innovationisselective.jpg",
+    "inLanguage": "English",
+    "headline": "At Eli Lilly, Innovation Is Global, Selective, and Listening.",
+    "typicalAgeRange": "18-"
+}
+</script>

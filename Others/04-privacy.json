@@ -1,0 +1,29 @@
+<script type = "application/ld+json">
+	{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Eli Lilly and Company India",
+    "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+    "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+    "url": "https://www.lillyindia.co.in/",
+    "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+    "sameAs": [
+        	"https://twitter.com/LillyPad/",
+        	"https://www.facebook.com/elilillyandco/",
+        	"https://www.instagram.com/elilillyco/",
+        	"https://www.linkedin.com/company/eli-lilly-and-company/",
+        	"https://www.youtube.com/user/EliLillyandCompany/"
+    	]
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Privacy Policy",
+    "description": "Eli Lilly and Company, India is committed to protecting the privacy and personal information of users of the site.",
+    "inLanguage": "English",
+    "headline": "Privacy Policy",
+    "typicalAgeRange": "18-"
+}
+</script>
