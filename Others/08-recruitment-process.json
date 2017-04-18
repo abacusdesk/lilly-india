@@ -27,3 +27,25 @@
     "typicalAgeRange": "18-"
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/careers/index.aspx",
+      "name": "Careers"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/careers/recruitment-process.aspx",
+      "name": "Recruitment Process"
+    }
+  }]
+}
+</script>

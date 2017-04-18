@@ -25,3 +25,25 @@
     "typicalAgeRange": "18-"
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/about-us/index.aspx",
+      "name": "About Us"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/about-us/lillys-footprint-in-india.aspx",
+      "name": "Footprint In India"
+    }
+  }]
+}
+</script>
