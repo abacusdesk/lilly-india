@@ -28,38 +28,19 @@
 </script>
 <script type="application/ld+json">
 {
-    "@context": "http://schema.org",
-    "@type": "WebPage",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Eli Lilly and Company India",
-        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
-        "url": "https://www.lillyindia.co.in/",
-        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
-        "sameAs": [
-            "https://twitter.com/LillyPad/",
-            "https://www.facebook.com/elilillyandco/",
-            "https://www.instagram.com/elilillyco/",
-            "https://www.linkedin.com/company/eli-lilly-and-company/",
-            "https://www.youtube.com/user/EliLillyandCompany/"
-        ],
-    "alternateName":"Lilly India"
-    },
-    "name": "Eli Lilly India - Corporate Values",
-    "description": "Values...are really the heart of the matter. They tell us who we are, how we should behave, where we should be going... Values are, quite simply, the core of both men and institutions. - Eli Lilly, 1876",
-    "inLanguage": "English",
-    "headline": "Our Values",
-    "typicalAgeRange": "18-"
-}
-</script>
-<script type="application/ld+json">
-{
   "@context": "http://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [{
     "@type": "ListItem",
     "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
     "item": {
       "@id": "https://www.lillyindia.co.in/en/about-us/index.aspx",
       "name": "About Us"
@@ -67,7 +48,7 @@
   },
 {
     "@type": "ListItem",
-    "position": 2,
+    "position": 3,
     "item": {
       "@id": "https://www.lillyindia.co.in/en/about-us/facts-at-a-glance.aspx",
       "name": "Facts"

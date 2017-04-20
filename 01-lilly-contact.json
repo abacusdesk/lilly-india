@@ -43,11 +43,49 @@
 {
     "@context": "http://schema.org",
     "@type": "WebPage",
-    "name": "Contact Eli Lilly and India",
-    "description": "Contact Page for Eli Lilly India",
-    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/contactus.jpg",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Eli Lilly and Company India",
+      "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+      "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+      "url": "https://www.lillyindia.co.in/",
+      "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+      "sameAs": [
+          "https://twitter.com/LillyPad/",
+          "https://www.facebook.com/elilillyandco/",
+          "https://www.instagram.com/elilillyco/",
+          "https://www.linkedin.com/company/eli-lilly-and-company/",
+          "https://www.youtube.com/user/EliLillyandCompany/"
+      ],
+    "alternateName":"Lilly India"
+    },
+    "name": "Contact Us",
+    "description": "Contact Eli Lilly India",
     "inLanguage": "English",
     "headline": "Contact Us",
+    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/contactus.jpg",
     "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/contact-us.aspx",
+      "name": "Contact US"
+    }
+  }]
 }
 </script>

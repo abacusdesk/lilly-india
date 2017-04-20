@@ -1,30 +1,28 @@
-<script type = "application/ld+json">
-	{
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "Eli Lilly and Company India",
-    "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-    "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
-    "url": "https://www.lillyindia.co.in/",
-    "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
-    "sameAs": [
-        	"https://twitter.com/LillyPad/",
-        	"https://www.facebook.com/elilillyandco/",
-        	"https://www.instagram.com/elilillyco/",
-        	"https://www.linkedin.com/company/eli-lilly-and-company/",
-        	"https://www.youtube.com/user/EliLillyandCompany/"
-    	]
-}
-</script>
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebPage",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Eli Lilly and Company India",
+      "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+      "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+      "url": "https://www.lillyindia.co.in/",
+      "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+      "sameAs": [
+          "https://twitter.com/LillyPad/",
+          "https://www.facebook.com/elilillyandco/",
+          "https://www.instagram.com/elilillyco/",
+          "https://www.linkedin.com/company/eli-lilly-and-company/",
+          "https://www.youtube.com/user/EliLillyandCompany/"
+      ],
+    "alternateName":"Lilly India"
+    },
     "name": "Employee Testimonials",
     "description": "Read about why Eli Lilly India is one of the best workplaces to work in India.",
     "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/career/easset_upload_file144_230165_e.jpg",
     "inLanguage": "English",
-    "headline": "Employees speak.",
+    "headline": "Employee Speak",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -36,13 +34,21 @@
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://www.lillyindia.co.in/en/careers/index.aspx",
-      "name": "Careers"
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
     }
   },
 {
     "@type": "ListItem",
     "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/careers/index.aspx",
+      "name": "Career"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
     "item": {
       "@id": "https://www.lillyindia.co.in/en/careers/employees-speak.aspx",
       "name": "Employee Speak"

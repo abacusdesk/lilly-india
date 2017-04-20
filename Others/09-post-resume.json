@@ -1,58 +1,27 @@
-<script type = "application/ld+json">
-	{
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "Eli Lilly and Company India",
-    "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-    "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
-    "url": "https://www.lillyindia.co.in/",
-    "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
-    "sameAs": [
-        	"https://twitter.com/LillyPad/",
-        	"https://www.facebook.com/elilillyandco/",
-        	"https://www.instagram.com/elilillyco/",
-        	"https://www.linkedin.com/company/eli-lilly-and-company/",
-        	"https://www.youtube.com/user/EliLillyandCompany/"
-    	]
-}
-</script>
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebPage",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Eli Lilly and Company India",
+      "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+      "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+      "url": "https://www.lillyindia.co.in/",
+      "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+      "sameAs": [
+          "https://twitter.com/LillyPad/",
+          "https://www.facebook.com/elilillyandco/",
+          "https://www.instagram.com/elilillyco/",
+          "https://www.linkedin.com/company/eli-lilly-and-company/",
+          "https://www.youtube.com/user/EliLillyandCompany/"
+      ],
+    "alternateName":"Lilly India"
+    },
     "name": "Post Your Resume",
     "description": "We’re looking for people who are determined to make life better for people around the world. If you believe to be that person, submit your resume at this page.",
     "inLanguage": "English",
-    "headline": "Post your resume",
-    "typicalAgeRange": "18-"
-}
-</script>
-<script type = "application/ld+json">
-    {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "Eli Lilly and Company India",
-    "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-    "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
-    "url": "https://www.lillyindia.co.in/",
-    "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
-    "sameAs": [
-            "https://twitter.com/LillyPad/",
-            "https://www.facebook.com/elilillyandco/",
-            "https://www.instagram.com/elilillyco/",
-            "https://www.linkedin.com/company/eli-lilly-and-company/",
-            "https://www.youtube.com/user/EliLillyandCompany/"
-        ]
-}
-</script>
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebPage",
-    "name": "Recruitment Process",
-    "description": "Learn about the recruitment process at Eli Lilly India.",
-    "inLanguage": "English",
-    "headline": "Recruitment Process",
+    "headline": "Post Your Resume",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -64,13 +33,21 @@
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://www.lillyindia.co.in/en/careers/index.aspx",
-      "name": "Careers"
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
     }
   },
 {
     "@type": "ListItem",
     "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/careers/index.aspx",
+      "name": "Career"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
     "item": {
       "@id": "https://www.lillyindia.co.in/en/careers/post-your-resume.aspx",
       "name": "Post Resume"
