@@ -28,6 +28,10 @@
     },
     "name": "Rainbow - Overall Survival",
     "audience": "Clinician",
+<<<<<<< HEAD
+    "inLanguage": "English",
+=======
+>>>>>>> origin/gh-pages
     "description": "Rainbow, a phase III trial for a combination of Cyramza & Paclitaxel significantly extended overall survival for gastric tumor patients with prior chemotherapy.",
     "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/product/Cyramza/Efficacy/gastric-rainbow_os.jpg",
     "lastReviewed": "2017-24-25",

@@ -1,3 +1,87 @@
+<<<<<<< HEAD
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+    "about": {
+        "@type": "Drug",
+        "name": "Cyramza",
+        "nonProprietaryName": "ramucirumab",
+        "pregnancyCategory": "http://health-lifesci.schema.org/FDAcategoryC",
+        "pregnancyWarning": "Risk cannot be ruled out",
+        "prescriptionStatus": "http://health-lifesci.schema.org/PrescriptionOnly"
+    },
+    "name": "Regard - Cyramza Monotherapy Trial for Gastric Tumors",
+    "audience": "Clinician",
+    "inLanguage": "English",
+    "description": "Regard is a multicenter, randomized, placebo-controlled, double-blind trial of patients with locally advanced or metastatic gastric OR GEJ adenocarcinoma previously treated with fluoropyrimidine- or platinum-containing chemotherapy.",
+    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/product/Cyramza/Gastric/gastric-regard_trial-design.jpg",
+    "lastReviewed": "2017-24-25",
+    "dateModified": "2017-04-25"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/index.aspx",
+      "name": "Products"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/cyramza/index.aspx",
+      "name": "Cyramza"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 4,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/cyramza/gastric/index.aspx",
+      "name": "Gastric"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 5,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/cyramza/gastric/regard-trial/index.aspx",
+      "name": "Regard"
+    }
+  }]
+}
+=======
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -79,4 +163,5 @@
     }
   }]
 }
+>>>>>>> origin/gh-pages
 </script>

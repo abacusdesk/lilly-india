@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -46,4 +47,54 @@
     }
   }]
 }
+=======
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Eli Lilly and Company India",
+      "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+      "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+      "url": "https://www.lillyindia.co.in/",
+      "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+      "sameAs": [
+          "https://twitter.com/LillyPad/",
+          "https://www.facebook.com/elilillyandco/",
+          "https://www.instagram.com/elilillyco/",
+          "https://www.linkedin.com/company/eli-lilly-and-company/",
+          "https://www.youtube.com/user/EliLillyandCompany/"
+      ],
+    "alternateName":"Lilly India"
+    },
+    "name": "Audience Age for Eli Lilly India's Website",
+    "description": "You should be aware that this site is not intended for, or designed to attract, individuals under the age of 18 years.",
+    "inLanguage": "English",
+    "headline": "Audience Age Disclaimer",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/audience-age-disclaimer.aspx",
+      "name": "Audience Age"
+    }
+  }]
+}
+>>>>>>> origin/gh-pages
 </script>

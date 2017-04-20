@@ -1,3 +1,87 @@
+<<<<<<< HEAD
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+    "about": {
+        "@type": "Drug",
+        "name": "Cyramza",
+        "nonProprietaryName": "ramucirumab",
+        "pregnancyCategory": "http://health-lifesci.schema.org/FDAcategoryC",
+        "pregnancyWarning": "Risk cannot be ruled out",
+        "prescriptionStatus": "http://health-lifesci.schema.org/PrescriptionOnly"
+    },
+    "name": "Cyramza for Gastric Tumors - Overview",
+    "audience": "Clinician",
+    "inLanguage": "English",
+    "description": "Cyramza+Paclitaxel is the first & only combination with a CATEGORY 1 recommendation from NCCN Guidelines for the treatment of locally advanced or metastatic gastric or GEJ adenocarcinoma.",
+    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/product/Cyramza/Gastric/gastric-overview1.jpg",
+    "lastReviewed": "2017-24-25",
+    "dateModified": "2017-04-25"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/index.aspx",
+      "name": "Products"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/cyramza/index.aspx",
+      "name": "Cyramza"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 4,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/cyramza/gastric/index.aspx",
+      "name": "Gastric"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 5,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/product/cyramza/gastric/overview/index.aspx",
+      "name": "Overview"
+    }
+  }]
+}
+=======
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -79,4 +163,5 @@
     }
   }]
 }
+>>>>>>> origin/gh-pages
 </script>
