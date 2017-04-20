@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -47,54 +46,4 @@
     }
   }]
 }
-=======
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebPage",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Eli Lilly and Company India",
-      "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-      "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
-      "url": "https://www.lillyindia.co.in/",
-      "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
-      "sameAs": [
-          "https://twitter.com/LillyPad/",
-          "https://www.facebook.com/elilillyandco/",
-          "https://www.instagram.com/elilillyco/",
-          "https://www.linkedin.com/company/eli-lilly-and-company/",
-          "https://www.youtube.com/user/EliLillyandCompany/"
-      ],
-    "alternateName":"Lilly India"
-    },
-    "name": "Terms of Use for Eli Lilly India's Website",
-    "description": "By using the site, you agree to be bound by terms, all applicable laws, and regulations on this page.",
-    "inLanguage": "English",
-    "headline": "Terms of Use",
-    "typicalAgeRange": "18-"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
-    "item": {
-      "@id": "https://www.lillyindia.co.in/",
-      "name": "Home"
-    }
-  },
-{
-    "@type": "ListItem",
-    "position": 2,
-    "item": {
-      "@id": "https://www.lillyindia.co.in/en/terms-of-use.aspx",
-      "name": "Terms of Use"
-    }
-  }]
-}
->>>>>>> origin/gh-pages
 </script>
