@@ -1,0 +1,57 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+    	"@type": "Organization",
+    	"name": "Eli Lilly and Company India",
+    	"legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+    	"description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+    	"url": "https://www.lillyindia.co.in/",
+    	"logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+    	"sameAs": [
+        	"https://twitter.com/LillyPad/",
+        	"https://www.facebook.com/elilillyandco/",
+        	"https://www.instagram.com/elilillyco/",
+        	"https://www.linkedin.com/company/eli-lilly-and-company/",
+        	"https://www.youtube.com/user/EliLillyandCompany/"
+    	],
+    "alternateName":"Lilly India"
+    },
+    "name": "Drug Discovery and Development at Eli Lilly",
+    "description": "New drugs begin in the laboratory with scientists, including chemists and pharmacologists, who identify cellular and genetic factors that play a role in specific diseases. They search for chemical and biological substances that target these biological markers and are likely to have drug-like effects.",
+    "inLanguage": "English",
+    "headline": "Drug Discovery and Development",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/research-development/index.aspx",
+      "name": "Research & Development"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/research-development/drug-discovery-and-development.aspx",
+      "name": "Drug Discovery"
+    }
+  }]
+}
+</script>

@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+    	"@type": "Organization",
+    	"name": "Eli Lilly and Company India",
+    	"legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+    	"description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+    	"url": "https://www.lillyindia.co.in/",
+    	"logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+    	"sameAs": [
+        	"https://twitter.com/LillyPad/",
+        	"https://www.facebook.com/elilillyandco/",
+        	"https://www.instagram.com/elilillyco/",
+        	"https://www.linkedin.com/company/eli-lilly-and-company/",
+        	"https://www.youtube.com/user/EliLillyandCompany/"
+    	],
+    "alternateName":"Lilly India"
+    },
+    "name": "Research and Development at Eli Lilly",
+    "description": "For 140 years, Eli Lilly has worked tirelessly to discover medicines that make life better. From the development of insulin to the manufacturing of the polio vaccine to the discovery of medicines that treat mental illness, we have been pioneers behind breakthroughs against some of humanity’s most stubborn and devastating diseases.",
+    "inLanguage": "English",
+    "headline": "Research and Development",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/research-development/index.aspx",
+      "name": "Research & Development"
+    }
+  }]
+}
+</script>

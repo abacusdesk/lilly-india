@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+    	"@type": "Organization",
+    	"name": "Eli Lilly and Company India",
+    	"legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+    	"description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+    	"url": "https://www.lillyindia.co.in/",
+    	"logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+    	"sameAs": [
+        	"https://twitter.com/LillyPad/",
+        	"https://www.facebook.com/elilillyandco/",
+        	"https://www.instagram.com/elilillyco/",
+        	"https://www.linkedin.com/company/eli-lilly-and-company/",
+        	"https://www.youtube.com/user/EliLillyandCompany/"
+    	],
+    "alternateName":"Lilly India"
+    },
+    "name": "Corporate Responsibility",
+    "description": "At Lilly, we understand that our ability to continue to grow depends on maintaining the trust of everyone we interact with.",
+    "inLanguage": "English",
+    "headline": "Responsibility - Upholding Our Values",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/responsibility/index.aspx",
+      "name": "Responsibility"
+    }
+  }]
+}
+</script>

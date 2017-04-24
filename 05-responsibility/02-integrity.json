@@ -1,0 +1,57 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+    	"@type": "Organization",
+    	"name": "Eli Lilly and Company India",
+    	"legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+    	"description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+    	"url": "https://www.lillyindia.co.in/",
+    	"logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+    	"sameAs": [
+        	"https://twitter.com/LillyPad/",
+        	"https://www.facebook.com/elilillyandco/",
+        	"https://www.instagram.com/elilillyco/",
+        	"https://www.linkedin.com/company/eli-lilly-and-company/",
+        	"https://www.youtube.com/user/EliLillyandCompany/"
+    	],
+    "alternateName":"Lilly India"
+    },
+    "name": "Working with Integrity",
+    "description": "For more than 140 years, we have approached our company’s business with a deep sense of responsibility to those we serve—patients, physicians and other health care providers, shareholders, suppliers, business partners, employees, and the communities in which we operate. Our actions are grounded in our core company values of integrity, excellence, and respect for people.",
+    "inLanguage": "English",
+    "headline": "Working with Integrity",
+    "typicalAgeRange": "18-"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/responsibility/index.aspx",
+      "name": "Responsibility"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/responsibility/working-with-integrity.aspx",
+      "name": "Integrity"
+    }
+  }]
+}
+</script>
