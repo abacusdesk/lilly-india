@@ -1,0 +1,177 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+    "about": {
+        "@context": "http://schema.org",
+        "@type": "MedicalCondition",
+        "alternateName": "delayed growth",
+        "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "body"
+    },
+    "cause": [
+        {
+      "@type": "MedicalCause",
+      "name": "genetic"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "malnutrition"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "thyroid hormone deficiency"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "excessive cortisol"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "growth hormone deficiency"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "turner syndrome"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "idiopathic growth disorder"
+      }
+    ],
+  "code": {
+    "@type": "MedicalCode",
+    "code": "R62.52",
+    "codingSystem": "ICD-10"
+  },
+  "differentialDiagnosis": {
+    "@type": "DDxElement",
+    "diagnosis": {
+      "@type": "MedicalCondition",
+      "name": "growth disorder"
+    },
+    "distinguishingSign": [
+      {
+        "@type": "MedicalSymptom",
+        "name": "kid's face appearing younger than other kids of the same age"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "delayed puberty"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "excessive fat around face and stomach"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "slow teeth development"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "slow hair growth"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "moderate chubbiness"
+      }
+    ]
+  },
+  "name": "growth disorder",
+  "possibleTreatment": [
+    {
+      "@type": "Drug",
+      "name": "somatropin"
+    }
+  ],
+  "riskFactor": [
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Heredity"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Hormonal Disorders"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Inadequate Nutrients"
+    }
+  ],
+  "signOrSymptom": [
+    {
+      "@type": "MedicalSymptom",
+      "name": "delayed physical growth"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "delayed puberty"
+    }
+  ]
+    },
+    "name": "Humatrope video demonstration",
+    "typicalAgeRange": "18-",
+    "inLanguage": "English",
+    "description": "Video tutorial for Humatrope (somatropin) by Eli Lilly India.",
+    "headline": "Humatrope Video Tutorial",
+    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/therapy-area/growthdisorder/humatrope.jpg",
+    "lastReviewed": "2017-24-25",
+    "dateModified": "2017-04-25",
+    "video": {
+      "@type": "VideoObject",
+      "contentUrl":"https://www.lillyindia.co.in/_Assets/video/GrowthDisorder/humatrope.mp4",
+      "fileFormat":"video/mp4",
+      "description": "Video tutorial for Humatrope (somatropin) by Eli Lilly India.",
+      "duration": "T02M22S",
+      "name": "Humatrope",
+      "thumbnailUrl": "https://www.lillyindia.co.in/_assets/img/therapy-area/growthdisorder/humatrope.jpg"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/growth-disorder/index.aspx",
+      "name": "Growth Disorders"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/growth-disorder/humatrope-video-tutorial.aspx",
+      "name": "Humatrope"
+    }
+  }]
+}
+</script>

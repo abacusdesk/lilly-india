@@ -1,0 +1,59 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+  "name": "Helping children with growth disorders",
+  "typicalAgeRange": "18-",
+  "inLanguage": "English",
+  "description": "The topics discussed on this page include: self-esteem, school performance, getting along with others, and what to do when others tease.",
+  "headline": "Helping Children With Growth Disorders",
+  "lastReviewed": "2017-24-25",
+  "dateModified": "2017-04-25"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/growth-disorder/index.aspx",
+      "name": "Growth Disorders"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/growth-disorder/helping-your-child-with-growth-disorder/index.aspx",
+      "name": "Helping Children"
+    }
+  }]
+}
+</script>

@@ -19,14 +19,118 @@
     "alternateName":"Lilly India"
     },
     "about": {
+        "@context": "http://schema.org",
         "@type": "MedicalCondition",
-        "name": "growth disorders",
-        
+        "alternateName": "delayed growth",
+        "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "body"
     },
-    "name": "Growth Disorders",
+    "cause": [
+        {
+      "@type": "MedicalCause",
+      "name": "genetic"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "malnutrition"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "thyroid hormone deficiency"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "excessive cortisol"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "growth hormone deficiency"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "turner syndrome"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "idiopathic growth disorder"
+      }
+    ],
+  "code": {
+    "@type": "MedicalCode",
+    "code": "R62.52",
+    "codingSystem": "ICD-10"
+  },
+  "differentialDiagnosis": {
+    "@type": "DDxElement",
+    "diagnosis": {
+      "@type": "MedicalCondition",
+      "name": "growth disorder"
+    },
+    "distinguishingSign": [
+      {
+        "@type": "MedicalSymptom",
+        "name": "kid's face appearing younger than other kids of the same age"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "delayed puberty"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "excessive fat around face and stomach"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "slow teeth development"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "slow hair growth"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "moderate chubbiness"
+      }
+    ]
+  },
+  "name": "growth disorder",
+  "possibleTreatment": [
+    {
+      "@type": "Drug",
+      "name": "somatropin"
+    }
+  ],
+  "riskFactor": [
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Heredity"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Hormonal Disorders"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Inadequate Nutrients"
+    }
+  ],
+  "signOrSymptom": [
+    {
+      "@type": "MedicalSymptom",
+      "name": "delayed physical growth"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "delayed puberty"
+    }
+  ]
+    },
+    "name": "Growth disorders",
     "typicalAgeRange": "18-",
     "inLanguage": "English",
     "description": "Children grow. It’s part of being a child, and we all expect that as they grow older, children will grow up - getting taller as the years go by. What happens when your child doesn't grow as you'd expect?",
+    "headline": "Growth Disorders",
     "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/therapy-area/growthdisorder/aboutgrowing.jpg",
     "lastReviewed": "2017-24-25",
     "dateModified": "2017-04-25"
