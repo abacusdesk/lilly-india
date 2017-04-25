@@ -24,7 +24,7 @@
         "alternateName": "delayed growth",
         "associatedAnatomy": {
             "@type": "AnatomicalStructure",
-            "name": "body"
+            "name": "Body"
     },
     "cause": [
         {

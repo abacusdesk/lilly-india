@@ -24,7 +24,7 @@
         "alternateName": "delayed growth",
         "associatedAnatomy": {
             "@type": "AnatomicalStructure",
-            "name": "body"
+            "name": "Body"
     },
     "cause": [
         {
@@ -141,7 +141,8 @@
       "description": "Video tutorial for Humatrope (somatropin) by Eli Lilly India.",
       "duration": "T02M22S",
       "name": "Humatrope",
-      "thumbnailUrl": "https://www.lillyindia.co.in/_assets/img/therapy-area/growthdisorder/humatrope.jpg"
+      "thumbnailUrl": "https://www.lillyindia.co.in/_assets/img/therapy-area/growthdisorder/humatrope.jpg",
+      "uploadDate": "2015-09-07"
   }
 }
 </script>
