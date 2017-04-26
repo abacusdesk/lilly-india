@@ -1,0 +1,258 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+    "about": {
+        "@context": "http://schema.org",
+        "@type": "MedicalCondition",
+        "alternateName": "bronchogenic carcinomas",
+        "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "Lung"
+    },
+    "cause": [
+        {
+      "@type": "MedicalCause",
+      "name": "smoking"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "passive smoking"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "long term exposure to radon"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "genetics"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "occupational exposure to asbestos"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "long term exposure to arsenic"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "long term exposure to beryllium"
+      },
+      {
+      "@type": "MedicalCause",
+      "name": "long term exposure to cadmium"
+      },
+      {
+      "@type": "MedicalCause",
+      "name": "long term exposure to nickel"
+      }
+    ],
+  "code": {
+    "@type": "MedicalCode",
+    "code": "C34.90",
+    "codingSystem": "ICD-10"
+  },
+  "differentialDiagnosis": {
+    "@type": "DDxElement",
+    "diagnosis": {
+      "@type": "MedicalCondition",
+      "name": "lung cancer"
+    },
+    "distinguishingSign": [
+      {
+        "@type": "MedicalSymptom",
+        "name": "chronic coughing"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "coughing up blood"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "breathing difficulties"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "loss of appetite"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "recurring infections"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "lumps in the neck or collar bone area"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "pain in the chest"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "hoarse voice"
+      }
+    ]
+  },
+  "name": "lung cancer",
+  "possibleTreatment": [
+    {
+      "@type": "Drug",
+      "name": "ramucirumab"
+    },
+    {
+      "@type": "MedicalTherapy",
+      "name": "surgery"
+    },
+    {
+      "@type": "MedicalTherapy",
+      "name": "chemotherapy"
+    },
+    {
+      "@type": "MedicalTherapy",
+      "name": "radiation therapy"
+    }
+  ],
+  "riskFactor": [
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Tobacco smoke"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Exposure to radon"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Exposure to asbestos"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Exposure to cancer-causing agents in the workplace"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Air pollution"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Arsenic in drinking water"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Previous radiation therapy to the lungs"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Personal or family history of lung cancer"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Certain dietary supplements"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Exposure to secondhand smoke"
+    }
+  ],
+  "secondaryPrevention": [
+    {
+      "@type": "LifestyleModification",
+      "name": "stopping smoking"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "reducing stress"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "nutritious meals"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "adequate physical exercise"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "improving air quality inside home"
+    }
+  ],
+  "signOrSymptom": [
+    {
+      "@type": "MedicalSymptom",
+      "name": "chest pain"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "chronic cough often with blood"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "shortness of breath"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "sudden weight loss"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "hoarse voice"
+    }
+  ]
+    },
+    "name": "Lung cancer causes",
+    "typicalAgeRange": "18-",
+    "inLanguage": "English",
+    "description": "About 80% of lung cancer cases are due to smoking - smokers are at least 10 times more likely to develop lung cancer than non-smokers.",
+    "headline": "Lung Cancer - Causes",
+    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/therapy-area/lungcancer/lung_cancer.jpg",
+    "lastReviewed": "2017-24-25",
+    "dateModified": "2017-04-25"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/index.aspx",
+      "name": "Lung Cancer"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/lung-cancer-causes.aspx",
+      "name": "Causes"
+    }
+  }]
+}
+</script>

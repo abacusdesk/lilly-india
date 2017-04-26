@@ -18,10 +18,10 @@
     	],
     "alternateName":"Lilly India"
     },
-    "name": "Lung cancer",
-    "description": "Lung cancer is among the most common cancers worldwide. Additionally, it is the leading cause of deaths due to any cancer.",
+    "name": "How cigarette smoking causes cancer",
+    "description": "Cigarette smoke contains about 40 known potent carcinogens, substances that cause cancer. Risk of cancer also depends on the duration and intensity of smoke.",
     "inLanguage": "English",
-    "headline": "Lung Cancer",
+    "headline": "How Cigarette Smoking Causes Cancer",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -43,6 +43,14 @@
     "item": {
       "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/index.aspx",
       "name": "Lung Cancer"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/how-cigarette-smoking-causes-cancer.aspx",
+      "name": "Smoking"
     }
   }]
 }

@@ -18,10 +18,10 @@
     	],
     "alternateName":"Lilly India"
     },
-    "name": "Lung cancer",
-    "description": "Lung cancer is among the most common cancers worldwide. Additionally, it is the leading cause of deaths due to any cancer.",
+    "name": "Lung cancer frequently asked questions",
+    "description": "Here are some frequently asked questions and their answers about lung cancer, its causes and symptoms, and possible courses of treatment.",
     "inLanguage": "English",
-    "headline": "Lung Cancer",
+    "headline": "Lung Cancer Frequently Asked Questions",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -43,6 +43,14 @@
     "item": {
       "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/index.aspx",
       "name": "Lung Cancer"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/lung-cancer-frequently-asked-questions.aspx",
+      "name": "FAQs"
     }
   }]
 }

@@ -54,14 +54,6 @@
         {
       "@type": "MedicalCause",
       "name": "low BMI"
-      },
-      {
-      "@type": "MedicalCause",
-      "name": "heavy smoking"
-      },
-      {
-      "@type": "MedicalCause",
-      "name": "heavy drinking"
       }
     ],
   "code": {

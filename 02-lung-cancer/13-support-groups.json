@@ -18,10 +18,10 @@
     	],
     "alternateName":"Lilly India"
     },
-    "name": "Lung cancer",
-    "description": "Lung cancer is among the most common cancers worldwide. Additionally, it is the leading cause of deaths due to any cancer.",
+    "name": "Lung cancer support groups",
+    "description": "If you are a patient or a caregiver to a patient with cancer, or are an organization that requires information on patient support, you may visit these websites.",
     "inLanguage": "English",
-    "headline": "Lung Cancer",
+    "headline": "Lung Cancer Support Groups",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -43,6 +43,14 @@
     "item": {
       "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/index.aspx",
       "name": "Lung Cancer"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/lung-cancer-support-groups.aspx",
+      "name": "Support Groups"
     }
   }]
 }

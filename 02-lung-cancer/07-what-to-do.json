@@ -18,10 +18,10 @@
     	],
     "alternateName":"Lilly India"
     },
-    "name": "Lung cancer",
-    "description": "Lung cancer is among the most common cancers worldwide. Additionally, it is the leading cause of deaths due to any cancer.",
+    "name": "What to do when your have lung cancer",
+    "description": "Sometimes too much information, often given by well-meaning people, can be confusing. Speak to a trusted member of your healthcare team if you have any concerns.",
     "inLanguage": "English",
-    "headline": "Lung Cancer",
+    "headline": "Lung Cancer - What To Do When You Have It",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -43,6 +43,14 @@
     "item": {
       "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/index.aspx",
       "name": "Lung Cancer"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/lung-cancer-what-to-do-when-you-have-it.aspx",
+      "name": "What To Do"
     }
   }]
 }

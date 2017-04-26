@@ -122,7 +122,65 @@
     },
     {
       "@type": "MedicalTherapy",
-      "name": "chemotherapy"
+      "name": "chemotherapy",
+      "adverseOutcome": [
+          {
+            "@type": "MedicalCondition",
+            "name": "nausea"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "vomiting"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "fatigue"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "anemia"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "infections"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "delay in blood clotting"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "oral problems"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "diarrhea"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "constipation"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "minor skin problems"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "minor nail problems"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "urinary disorders"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "flu-like syndromes"
+          },
+          {
+            "@type": "MedicalCondition",
+            "name": "fluid retention"
+          }
+      ]
     },
     {
       "@type": "MedicalTherapy",
@@ -216,11 +274,11 @@
     }
   ]
     },
-    "name": "Lung cancer - signs and symptoms",
+    "name": "Common side effects of chemotherapy",
     "typicalAgeRange": "18-",
     "inLanguage": "English",
-    "description": "Symptoms include cough (often with blood), shortness of breath, wheezing and weight loss. These symptoms often don't appear until the cancer is advanced.",
-    "headline": "Lung Cancer - Signs And Symptoms",
+    "description": "Chemotherapy can cause nausea and vomiting, hair loss, fatigue and anemia, some infections, flu-like symptoms, diarrhea and constipation depending on your treatment.",
+    "headline": "Common Side Effects Of Chemotherapy",
     "lastReviewed": "2017-24-25",
     "dateModified": "2017-04-25"
 }
@@ -249,8 +307,16 @@
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/lung-cancer-signs-and-symptoms.aspx",
-      "name": "Symptoms"
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/side-effects-of-chemotherapy/index.aspx",
+      "name": "Chemotherapy Side Effects"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 4,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/side-effects-of-chemotherapy/common-side-effects-of-chemotherapy.aspx",
+      "name": "Common Side Effects"
     }
   }]
 }

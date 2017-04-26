@@ -18,10 +18,10 @@
     	],
     "alternateName":"Lilly India"
     },
-    "name": "Lung cancer",
-    "description": "Lung cancer is among the most common cancers worldwide. Additionally, it is the leading cause of deaths due to any cancer.",
+    "name": "Lung cancer - questions to ask to healthcare experts",
+    "description": "To make sure you understand your cancer you should talk to your healthcare team and express any concerns you may have. Here are some important questions to ask.",
     "inLanguage": "English",
-    "headline": "Lung Cancer",
+    "headline": "Lung Cancer - What Questions To Ask",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -43,6 +43,14 @@
     "item": {
       "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/index.aspx",
       "name": "Lung Cancer"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/lung-cancer/lung-cancer-what-questions-to-ask.aspx",
+      "name": "Questions"
     }
   }]
 }
