@@ -18,10 +18,10 @@
     	],
     "alternateName":"Lilly India"
     },
-    "name": "Eli Lilly India - About Us",
-    "description": "Lilly unites caring with discovery to make life better for people around the world.",
+    "name": "Lilly's role in diabetes care",
+    "description": "Humulin, Lilly's human insulin was the first commercially available, genetically engineered human insulin and the first medicine derived from recombinant DNA technology.",
     "inLanguage": "English",
-    "headline": "Lilly is about caring and discovery.",
+    "headline": "Our Role In Diabetes Care",
     "typicalAgeRange": "18-"
 }
 </script>
@@ -41,9 +41,17 @@
     "@type": "ListItem",
     "position": 2,
     "item": {
-      "@id": "https://www.lillyindia.co.in/en/about-us/index.aspx",
-      "name": "About Us"
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/index.aspx",
+      "name": "Diabetes"
     }
-  }]
+  },
+  {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/legacy/index.aspx",
+        "name": "Legacy"
+      }
+    }]
 }
 </script>
