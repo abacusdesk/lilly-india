@@ -162,11 +162,11 @@
     }
   ]
     },
-    "name": "What is diabetes",
+    "name": "Types of diabetes",
     "typicalAgeRange": "18-",
     "inLanguage": "English",
-    "description": "Diabetes is a condition in which the body does not properly use or produce insulin - a hormone that converts sugar into glucose. Read more about diabetes.",
-    "headline": "What Is Diabetes",
+    "description": "Type 1 diabetes occurs when immune system by mistake kills beta cells of the pancreas. Type 2 occurs when pancreas produces insulin but the body can't use it.",
+    "headline": "Type 1, Type 2 And Gestational Diabetes",
     "lastReviewed": "2017-24-25",
     "dateModified": "2017-04-25"
 }
@@ -190,6 +190,14 @@
       "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/index.aspx",
       "name": "Diabetes"
     }
-  }]
+  },
+  {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/type-1,-type-2-and-gestational-diabetes.aspx",
+        "name": "Types"
+      }
+    }]
 }
 </script>
