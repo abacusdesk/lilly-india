@@ -1,0 +1,251 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+    "about": {
+        "@context": "http://schema.org",
+        "@type": "MedicalCondition",
+        "alternateName": "diabetes",
+        "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "Blood"
+    },
+  "code": {
+    "@type": "MedicalCode",
+    "code": "E11.9",
+    "codingSystem": "ICD-10"
+  },
+  "differentialDiagnosis": {
+    "@type": "DDxElement",
+    "diagnosis": {
+      "@type": "MedicalCondition",
+      "name": "diabetes mellitus"
+    },
+    "distinguishingSign": [
+      {
+        "@type": "MedicalSymptom",
+        "name": "elevated blood sugar levels"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "loss of glucose in urine"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "increased thirst"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "sudden weight loss"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "frequent infections"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "blurred vision"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "sores that do not heal"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "numbness in the feet or hands"
+      }
+    ]
+  },
+  "name": "diabetes",
+  "possibleTreatment": [
+    {
+      "@type": "Drug",
+      "name": "insulin"
+    }
+  ],
+  "riskFactor": [
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "being overweight"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "high blood-pressure"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "sedentary lifestyle"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "family history of diabetes"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "age"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "insulin resistance"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "hormonal diseases"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "low levels of HDL"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "impaired glucose tolerance"
+    }
+  ],
+  "secondaryPrevention": [
+    {
+      "@type": "LifestyleModification",
+      "name": "stopping smoking"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "reducing stress"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "healthy eating"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "adequate physical exercise"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "avoiding processed food"
+    }
+  ],
+  "signOrSymptom": [
+    {
+      "@type": "MedicalSymptom",
+      "name": "increased thirst and urination"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "increased hunger"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "fatigue"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "blurred vision"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "unexpected weight loss"
+    }
+  ]
+    },
+    "name": "Insulin delivery device video tutorials",
+    "typicalAgeRange": "18-",
+    "inLanguage": "English",
+    "description": "Learn how to properly use Lilly's insulin delivery devices for diabetes with easy to understand video tutorials.",
+    "headline": "Insulin Delivery Device Video Tutorials",
+    "video": [{
+      "@type": "VideoObject",
+      "contentUrl":"https://www.lillyindia.co.in/_Assets/video/Diabetes/Savvio.mp4",
+      "fileFormat":"video/mp4",
+      "description": "Savvio RedPen video demonstration by Eli Lilly India.",
+      "duration": "T02M13S",
+      "name": "Savvio RedPen by Eli Lilly India",
+      "thumbnailUrl": "https://www.lillyindia.co.in/_assets/img/therapy-area/Diabetes/Resources/Savvio_RedPen_3.jpg",
+      "uploadDate": "2015-09-07"
+  },
+    {
+      "@type": "VideoObject",
+      "contentUrl":"https://www.lillyindia.co.in/_Assets/video/Diabetes/KwikPen.mp4",
+      "fileFormat":"video/mp4",
+      "description": "Humalog KwikPen video demonstration by Eli Lilly India.",
+      "duration": "T01M33S",
+      "name": "Humalog KwikPen by Eli Lilly India",
+      "thumbnailUrl": "https://www.lillyindia.co.in/_assets/img/therapy-area/Diabetes/Resources/humalog.jpg",
+      "uploadDate": "2015-09-07"
+    },
+    {
+      "@type": "VideoObject",
+      "contentUrl":"https://www.lillyindia.co.in/_Assets/video/Diabetes/ergoII.mp4",
+      "fileFormat":"video/mp4",
+      "description": "Ergo II video demonstration by Eli Lilly India.",
+      "duration": "T02M16S",
+      "name": "Ergo II by Eli Lilly India",
+      "thumbnailUrl": "https://www.lillyindia.co.in/_assets/img/therapy-area/Diabetes/Resources/Ergo-II.jpg",
+      "uploadDate": "2015-09-07"
+    },
+    {
+      "@type": "VideoObject",
+      "contentUrl":"https://www.lillyindia.co.in/_Assets/video/OnceWeeklyGLP1-RA.mp4",
+      "fileFormat":"video/mp4",
+      "description": "Trulicity delivery device video demonstration by Eli Lilly India.",
+      "duration": "T01M29S",
+      "name": "Trulicity Delivery Device by Eli Lilly India",
+      "thumbnailUrl": "https://www.lillyindia.co.in/_assets/img/therapy-area/Diabetes/Resources/TrulicityPen.jpg",
+      "uploadDate": "2015-09-07"
+    }],
+    "lastReviewed": "2017-24-25",
+    "dateModified": "2017-04-25"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/index.aspx",
+      "name": "Diabetes"
+    }
+  },
+  {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/resources/index.aspx",
+        "name": "Resources"
+      }
+    },
+    {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/resources/insuling-delivery-device-video-tutorials.aspx",
+          "name": "Tutorials"
+        }
+      }]
+}
+</script>

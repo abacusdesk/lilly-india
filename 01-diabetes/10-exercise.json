@@ -1,0 +1,211 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+    "about": {
+        "@context": "http://schema.org",
+        "@type": "MedicalCondition",
+        "alternateName": "diabetes",
+        "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "Blood"
+    },
+  "code": {
+    "@type": "MedicalCode",
+    "code": "E11.9",
+    "codingSystem": "ICD-10"
+  },
+  "differentialDiagnosis": {
+    "@type": "DDxElement",
+    "diagnosis": {
+      "@type": "MedicalCondition",
+      "name": "diabetes mellitus"
+    },
+    "distinguishingSign": [
+      {
+        "@type": "MedicalSymptom",
+        "name": "elevated blood sugar levels"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "loss of glucose in urine"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "increased thirst"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "sudden weight loss"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "frequent infections"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "blurred vision"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "sores that do not heal"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "numbness in the feet or hands"
+      }
+    ]
+  },
+  "name": "diabetes",
+  "possibleTreatment": [
+    {
+      "@type": "Drug",
+      "name": "insulin"
+    }
+  ],
+  "riskFactor": [
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "being overweight"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "high blood-pressure"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "sedentary lifestyle"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "family history of diabetes"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "age"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "insulin resistance"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "hormonal diseases"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "low levels of HDL"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "impaired glucose tolerance"
+    }
+  ],
+  "secondaryPrevention": [
+    {
+      "@type": "LifestyleModification",
+      "name": "stopping smoking"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "reducing stress"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "healthy eating"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "adequate physical exercise"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "avoiding processed food"
+    }
+  ],
+  "signOrSymptom": [
+    {
+      "@type": "MedicalSymptom",
+      "name": "increased thirst and urination"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "increased hunger"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "fatigue"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "blurred vision"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "unexpected weight loss"
+    }
+  ]
+    },
+    "name": "Exercise for people with diabetes",
+    "typicalAgeRange": "18-",
+    "inLanguage": "English",
+    "description": "Exercise is the key to lifelong health for people with diabetes. Any exercise that gets you moving will help your body manage glucose & blood pressure levels.",
+    "headline": "Exercise For People With Diabetes",
+    "lastReviewed": "2017-24-25",
+    "dateModified": "2017-04-25"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/index.aspx",
+      "name": "Diabetes"
+    }
+  },
+  {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/management/index.aspx",
+        "name": "Management"
+      }
+    },
+    {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@id": "https://www.lillyindia.co.in/en/therapy-area/diabetes/management/exercise-for-people-with-diabetes.aspx",
+          "name": "Exercise"
+        }
+      }]
+}
+</script>
