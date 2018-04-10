@@ -1,0 +1,221 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+    "alternateName":"Lilly India"
+    },
+    "about": {
+        "@context": "http://schema.org",
+        "@type": "MedicalCondition",
+        "alternateName": "Impotence",
+        "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "Penis"
+    },
+    "cause": [
+        {
+      "@type": "MedicalCause",
+      "name": "Heart disease"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "Atherosclerosis"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "High cholesterol"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "High blood pressure"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "Diabetes"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "Obesity"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "Metabolic syndrome"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "Certain prescription medications"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "Alcoholism and other forms of substance abuse"
+      },
+        {
+      "@type": "MedicalCause",
+      "name": "Sleep disorders"
+      }
+    ],
+  "code": {
+    "@type": "MedicalCode",
+    "code": "N52.9",
+    "codingSystem": "ICD-10"
+  },
+  "differentialDiagnosis": {
+    "@type": "DDxElement",
+    "diagnosis": {
+      "@type": "MedicalCondition",
+      "name": "Erectile Dysfunction"
+    },
+    "distinguishingSign": [
+      {
+        "@type": "MedicalSymptom",
+        "name": "Trouble getting an erection"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "Difficulty maintaining an erection during sexual activities"
+      },
+      {
+        "@type": "MedicalSymptom",
+        "name": "Reduced interest in sex"
+      }
+    ]
+  },
+  "name": "Erectile Dysfunction",
+  "possibleTreatment": [
+    {
+      "@type": "Drug",
+      "name": "Tadalafil"
+    }
+  ],
+  "riskFactor": [
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Medical conditions"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Tobacco use"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Being overweight"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Certain medical treatments"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Injuries"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Medications"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Psychological conditions"
+    },
+    {
+      "@type": "MedicalRiskFactor",
+      "name": "Drug and alcohol use"
+    }
+  ],
+  "secondaryPrevention": [
+    {
+      "@type": "LifestyleModification",
+      "name": "Manage diabetes"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "Heart disease"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "Regular medical tests"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "Stop smoking"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "Limit drinking"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "Regular exercise"
+    },
+    {
+      "@type": "LifestyleModification",
+      "name": "Reduce stress"
+    }
+  ],
+  "signOrSymptom": [
+    {
+      "@type": "MedicalSymptom",
+      "name": "Trouble getting an erection"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "Trouble keeping an erection"
+    },
+    {
+      "@type": "MedicalSymptom",
+      "name": "Reduced sexual desire"
+    }
+  ]
+    },
+    "name": "Treatment Methods for Erection Problem",
+    "typicalAgeRange": "18-",
+    "inLanguage": "English",
+    "description": "Erectile Dysfunction usually has some underlying medical disorder as the root problem. If the treatment for that underlying disorder is not helping, doctors may prescribe an oral drug, injection, vacuum pump or penile prosthesis.",
+    "primaryImageOfPage": "https://www.lillyindia.co.in/_assets/img/therapy-area/menshealth/ed/treatment_methods_of_erectile_dysfunction.jpg",
+    "lastReviewed": "2018-04-10",
+    "dateModified": "2018-04-10"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.lillyindia.co.in",
+      "name": "Home"
+    }
+  },
+{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/mens-health/index.aspx",
+      "name": "Men's Health - Erectile Dysfunction"
+    }
+  },
+  {
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.lillyindia.co.in/en/therapy-area/mens-health/ed/treatment-methods-of-erectile-dysfunction.aspx",
+      "name": "Treatment of Erectile Dysfunction"
+    }
+  }]
+}
+</script>
