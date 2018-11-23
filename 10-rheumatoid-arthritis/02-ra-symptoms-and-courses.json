@@ -62,30 +62,29 @@
             }
         ]
     },
-    "name": "Rheumatoid Arithritis",
-    "possibleTreatment": [{
-            "@type": "Drug",
-            "name": "baricitinib"
-        },
-        {
-            "@type": "Drug",
-            "name": "etanercept"
-        } {
-            "@type": "Drug",
-            "name": "JAK inhibitors"
-        } {
-            "@type": "Drug",
-            "name": "tofcitim=nib"
-        } {
-            "@type": "Drug",
-            "name": "adalimbumab"
-        } {
-            "@type": "Drug",
-            "name": "certoli-zumab"
-        }
-    ]
+   "name": "Rheumatoid Arithritis",
+        "possibleTreatment": [
+            {
+                "@type": "Drug",
+                "name": "baricitinib"
+            },
+            {
+                "@type": "Drug",
+                "name": "etanercept"
+                },
+            { 
+                "@type": "Drug",
+                "name": "JAKinhibitors"
+            },
+            {
+                "@type": "Drug",
+                "name": "tofcitimnib"
+            }
+            
+        ]
+    }
 }
-}],
+],
 "causes": [{
         "@type": "MedicalRiskFactor",
         "name": "Age"
