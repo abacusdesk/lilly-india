@@ -62,7 +62,7 @@
             }
         ]
     },
-   "name": "Rheumatoid Arithritis",
+  "name": "Rheumatoid Arithritis",
         "possibleTreatment": [
             {
                 "@type": "Drug",
