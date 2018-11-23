@@ -1,0 +1,168 @@
+< script type = "application/ld+json" > {
+"@context": "http://schema.org",
+"@type": "MedicalWebPage",
+"publisher": {
+    "@type": "Organization",
+    "name": "Eli Lilly and Company India",
+    "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
+    "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
+    "url": "https://www.lillyindia.co.in/",
+    "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+    "sameAs": [
+        "https://twitter.com/LillyPad/",
+        "https://www.facebook.com/elilillyandco/",
+        "https://www.instagram.com/elilillyco/",
+        "https://www.linkedin.com/company/eli-lilly-and-company/",
+        "https://www.youtube.com/user/EliLillyandCompany/"
+    ],
+    "alternateName": "Lilly India"
+},
+"about": {
+    "@context": "http://schema.org",
+    "@type": "MedicalCondition",
+    "alternateName": "Rheumatoid Arithritis",
+    "associatedAnatomy": {
+        "@type": "AnatomicalStructure",
+        "name": "Joints"
+    },
+    "code": {
+        "@type": "MedicalCode",
+        "code": "M06.9",
+        "codingSystem": "ICD-10"
+    },
+    "differentialDiagnosis": {
+        "@type": "DDxElement",
+        "diagnosis": {
+            "@type": "MedicalCondition",
+            "name": "Rheumatoid Arithritis"
+        },
+        "distinguishingSign": [{
+                "@type": "MedicalSymptom",
+                "name": "joint pain"
+            },
+            {
+                "@type": "MedicalSymptom",
+                "name": "swelling of joints"
+            },
+            {
+                "@type": "MedicalSymptom",
+                "name": "reduced mobility in mornings"
+            },
+            {
+                "@type": "MedicalSymptom",
+                "name": "reduce power of hands"
+            },
+            {
+                "@type": "MedicalSymptom",
+                "name": "Redness and warmth"
+            },
+            {
+                "@type": "MedicalSymptom",
+                "name": "Stiffness"
+            }
+        ]
+    },
+    "name": "Rheumatoid Arithritis",
+    "possibleTreatment": [{
+            "@type": "Drug",
+            "name": "baricitinib"
+        },
+        {
+            "@type": "Drug",
+            "name": "etanercept"
+        } {
+            "@type": "Drug",
+            "name": "JAK inhibitors"
+        } {
+            "@type": "Drug",
+            "name": "tofcitim=nib"
+        } {
+            "@type": "Drug",
+            "name": "adalimbumab"
+        } {
+            "@type": "Drug",
+            "name": "certoli-zumab"
+        }
+    ]
+}
+}],
+"causes": [{
+        "@type": "MedicalRiskFactor",
+        "name": "Age"
+    },
+    {
+        "@type": "MedicalRiskFactor",
+        "name": "Environment"
+    },
+    {
+        "@type": "MedicalRiskFactor",
+        "name": "Sex"
+    },
+    {
+        "@type": "MedicalRiskFactor",
+        "name": "Family history"
+    },
+    {
+        "@type": "MedicalRiskFactor",
+        "name": "Obesity"
+    }
+],
+"secondaryPrevention": [{
+        "@type": "LifestyleModification",
+        "name": "Protect your joints"
+    },
+    {
+        "@type": "LifestyleModification",
+        "name": "Reducing stress"
+    },
+    {
+        "@type": "LifestyleModification",
+        "name": "Healthy eating"
+    },
+    {
+        "@type": "LifestyleModification",
+        "name": "Adequate physical exercise"
+    },
+    {
+        "@type": "LifestyleModification",
+        "name": "Eat anti-inflammatory foods"
+    }
+]
+},
+"name": "Tips for Patients",
+"typicalAgeRange": "18-",
+"inLanguage": "English",
+"description": "Regular use of your medication forms the basis of the therapy to permanently alleviate your symptoms. A healthy, balanced diet and regular exercise are recommended.",
+"headline": "What is Rheumatoid Arithritis",
+"lastReviewed": "2018-11-23",
+"dateModified": "2017-11-23"
+} <
+/script> <
+script type = "application/ld+json" > {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
+                    "name": "Rheumatoid Arithritis"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/living-with-rheumatoid-arthritis.aspx",
+                    "name": "Tips for Patients"
+                }
+            }
+        ]
