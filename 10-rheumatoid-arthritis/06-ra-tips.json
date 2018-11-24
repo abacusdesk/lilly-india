@@ -130,10 +130,10 @@
 }
 ]
 },
-"name": "Tips for Patients With Rheumatoid Arthritis",
+"name": "RA Matters",
 "typicalAgeRange": "18-",
 "inLanguage": "English",
-"description": "Regular use of your medication forms the basis of the therapy to permanently alleviate your symptoms. A healthy, balanced diet and regular exercise are recommended.",
+"description": "To understand life with rheumatoid arthritis, Lilly created RA Matters, a traditional and social media survey of over 6,200 people across eight countries.",
 "lastReviewed": "2018-11-23",
 "dateModified": "2017-11-23"
 } <
@@ -159,11 +159,11 @@ script type = "application/ld+json" > {
 }
 },
 {
-    "@type": "ListItem",
-    "position": 3,
-    "item": {
-        "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/living-with-rheumatoid-arthritis.aspx",
-        "name": "Tips for Patients"
-    }
+"@type": "ListItem",
+"position": 3,
+"item": {
+    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/ra-matters-lilly-initiative.aspx",
+    "name": "RA Matters"
+}
 }
 ]
