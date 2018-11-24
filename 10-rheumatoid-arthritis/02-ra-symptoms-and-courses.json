@@ -134,7 +134,7 @@
 "typicalAgeRange": "18-",
 "inLanguage": "English",
 "description": "The symptoms of rheumatoid arthritis may include consistent joint pain, swelling of joints, reduced mobility in mornings, reduced gripping power of hands.",
-"headline": "What is Rheumatoid Arithritis",
+"headline": "What is Rheumatoid Arthritis",
 "lastReviewed": "2018-11-23",
 "dateModified": "2017-11-23"
 } <
@@ -156,7 +156,7 @@ script type = "application/ld+json" > {
 "position": 2,
 "item": {
     "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
-    "name": "Rheumatoid Arithritis"
+    "name": "Rheumatoid Arthritis"
 }
 },
 {
