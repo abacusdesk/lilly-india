@@ -63,7 +63,7 @@
                 }
             ]
         },
-        "name": "Rheumatoid Arithritis",
+        "name": "Rheumatoid Arthritis",
         "possibleTreatment": [
             {
                 "@type": "Drug",
@@ -134,7 +134,7 @@
 "typicalAgeRange": "18-",
 "inLanguage": "English",
 "description": "Rheumatoid Arthritis is an autoimmune disorder which occurs when the immune system attacks the linings of your joints, ultimately weakening and stretching them.",
-"headline": "What is Rheumatoid Arithritis",
+"headline": "What is Rheumatoid Arthritis",
 "lastReviewed": "2018-11-23",
 "dateModified": "2017-11-23"
 } <
