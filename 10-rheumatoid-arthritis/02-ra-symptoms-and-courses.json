@@ -164,7 +164,7 @@ script type = "application/ld+json" > {
 "position": 3,
 "item": {
     "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/symptoms-and-course.aspx",
-    "name": "Symptoms and Courses"
+    "name": "Symptoms and Course"
 }
 }
 ]
