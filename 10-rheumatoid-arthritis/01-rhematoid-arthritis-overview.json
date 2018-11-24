@@ -20,7 +20,7 @@
     "about": {
         "@context": "http://schema.org",
         "@type": "MedicalCondition",
-        "alternateName": "Rheumatoid Arithritis",
+        "alternateName": "Rheumatoid Arthritis",
         "associatedAnatomy": {
             "@type": "AnatomicalStructure",
             "name": "Joints"
@@ -34,7 +34,7 @@
             "@type": "DDxElement",
             "diagnosis": {
                 "@type": "MedicalCondition",
-                "name": "Rheumatoid Arithritis"
+                "name": "Rheumatoid Arthritis"
             },
             "distinguishingSign": [
                 {
@@ -67,19 +67,19 @@
         "possibleTreatment": [
             {
                 "@type": "Drug",
-                "name": "baricitinib"
+                "name": "Baricitinib"
             },
             {
                 "@type": "Drug",
-                "name": "etanercept"
+                "name": "Etanercept"
                 },
             { 
                 "@type": "Drug",
-                "name": "JAKinhibitors"
+                "name": "JAK inhibitors"
             },
             {
                 "@type": "Drug",
-                "name": "tofcitimnib"
+                "name": "Tofacitinib"
             }
             
         ]
@@ -131,7 +131,7 @@
 }
 ]
 },
-"name": "What is Rheumatoid Arithritis",
+"name": "What is Rheumatoid Arthritis",
 "typicalAgeRange": "18-",
 "inLanguage": "English",
 "description": "Rheumatoid Arthritis is a chronic inflammatory disease that primarily affects the joints. It's an autoimmune condition in which the immune system attacks the linings of joints.",
@@ -157,7 +157,7 @@ script type = "application/ld+json" > {
 "position": 2,
 "item": {
     "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
-    "name": "Rheumatoid Arithritis"
+    "name": "Rheumatoid Arthritis"
 }
 }
 ]
