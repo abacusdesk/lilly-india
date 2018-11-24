@@ -20,7 +20,7 @@
     "about": {
         "@context": "http://schema.org",
         "@type": "MedicalCondition",
-        "alternateName": "Rheumatoid Arithritis",
+        "alternateName": "Rheumatoid Arthritis",
         "associatedAnatomy": {
             "@type": "AnatomicalStructure",
             "name": "Joints"
@@ -67,19 +67,19 @@
         "possibleTreatment": [
             {
                 "@type": "Drug",
-                "name": "baricitinib"
+                "name": "Baricitinib"
             },
             {
                 "@type": "Drug",
-                "name": "etanercept"
+                "name": "Etanercept"
             },
             {
                 "@type": "Drug",
-                "name": "JAKinhibitors"
+                "name": "JAK inhibitors"
             },
             {
                 "@type": "Drug",
-                "name": "tofcitimnib"
+                "name": "Tofacitinib"
             }
         ]
     }
@@ -130,10 +130,10 @@
 }
 ]
 },
-"name": "What is Rheumatoid Arithritis",
+"name": "Symptoms of Rheumatoid Arthritis",
 "typicalAgeRange": "18-",
 "inLanguage": "English",
-"description": "Rheumatoid Arthritis is a chronic inflammatory disease that primarily affects the joints. It's an autoimmune condition in which the immune system attacks the linings of joints.",
+"description": "The symptoms of rheumatoid arthritis may include consistent joint pain, swelling of joints, reduced mobility in mornings, reduced gripping power of hands.",
 "headline": "What is Rheumatoid Arithritis",
 "lastReviewed": "2018-11-23",
 "dateModified": "2017-11-23"
