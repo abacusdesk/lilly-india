@@ -63,7 +63,7 @@
                 }
             ]
         },
-        "name": "Rheumatoid Arithritis",
+        "name": "Rheumatoid Arthritis",
         "possibleTreatment": [
             {
                 "@type": "Drug",
@@ -134,7 +134,7 @@
 "typicalAgeRange": "18-",
 "inLanguage": "English",
 "description": "Diagnosis of rheumatoid arthritis starts with questions about your medical history, followed by a physical examination by a rheumatologist",
-"headline": "What is Rheumatoid Arithritis",
+"headline": "What is Rheumatoid Arthritis",
 "lastReviewed": "2018-11-23",
 "dateModified": "2017-11-23"
 } <
@@ -156,7 +156,7 @@ script type = "application/ld+json" > {
 "position": 2,
 "item": {
     "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
-    "name": "Rheumatoid Arithritis"
+    "name": "Rheumatoid Arthritis"
 }
 },
 {
