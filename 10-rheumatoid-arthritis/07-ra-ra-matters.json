@@ -1,147 +1,138 @@
-< script type = "application/ld+json" > {
-"@context": "http://schema.org",
-"@type": "MedicalWebPage",
-"publisher": {
-    "@type": "Organization",
-    "name": "Eli Lilly and Company India",
-    "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-    "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
-    "url": "https://www.lillyindia.co.in/",
-    "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
-    "sameAs": [
-        "https://twitter.com/LillyPad/",
-        "https://www.facebook.com/elilillyandco/",
-        "https://www.instagram.com/elilillyco/",
-        "https://www.linkedin.com/company/eli-lilly-and-company/",
-        "https://www.youtube.com/user/EliLillyandCompany/"
-    ],
-    "alternateName": "Lilly India"
-},
-"about": {
+<script type = "application/ld+json" > {
     "@context": "http://schema.org",
-    "@type": "MedicalCondition",
-    "alternateName": "Rheumatoid Arithritis",
-    "associatedAnatomy": {
-        "@type": "AnatomicalStructure",
-        "name": "Joints"
+    "@type": "MedicalWebPage",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eli Lilly and Company India",
+        "url": "https://www.lillyindia.co.in/",
+        "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
+        "sameAs": [
+            "https://twitter.com/LillyPad/",
+            "https://www.facebook.com/elilillyandco/",
+            "https://www.instagram.com/elilillyco/",
+            "https://www.linkedin.com/company/eli-lilly-and-company/",
+            "https://www.youtube.com/user/EliLillyandCompany/"
+        ],
+        "alternateName": "Lilly India"
     },
-    "code": {
-        "@type": "MedicalCode",
-        "code": "M06.9",
-        "codingSystem": "ICD-10"
-    },
-    "differentialDiagnosis": {
-        "@type": "DDxElement",
-        "diagnosis": {
-            "@type": "MedicalCondition",
-            "name": "Rheumatoid Arithritis"
+    "about": {
+        "@context": "http://schema.org",
+        "@type": "MedicalCondition",
+        "alternateName": "Rheumatoid Arthritis",
+        "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "Joints"
         },
-        "distinguishingSign": [{
-                "@type": "MedicalSymptom",
-                "name": "joint pain"
+        "code": {
+            "@type": "MedicalCode",
+            "code": "M06.9",
+            "codingSystem": "ICD-10"
+        },
+        "differentialDiagnosis": {
+            "@type": "DDxElement",
+            "diagnosis": {
+                "@type": "MedicalCondition",
+                "name": "Rheumatoid Arthritis"
+            },
+            "distinguishingSign": [
+                {
+                    "@type": "MedicalSymptom",
+                    "name": "Joint pain"
+                },
+                {
+                    "@type": "MedicalSymptom",
+                    "name": "Swelling of joints"
+                },
+                {
+                    "@type": "MedicalSymptom",
+                    "name": "Reduced mobility in mornings"
+                },
+                {
+                    "@type": "MedicalSymptom",
+                    "name": "Reduce power of hands"
+                },
+                {
+                    "@type": "MedicalSymptom",
+                    "name": "Redness and warmth"
+                },
+                {
+                    "@type": "MedicalSymptom",
+                    "name": "Stiffness"
+                }
+            ]
+        },
+        "causes": [
+            {
+                "@type": "MedicalRiskFactor",
+                "name": "Age"
             },
             {
-                "@type": "MedicalSymptom",
-                "name": "swelling of joints"
+                "@type": "MedicalRiskFactor",
+                "name": "Environment"
             },
             {
-                "@type": "MedicalSymptom",
-                "name": "reduced mobility in mornings"
+                "@type": "MedicalRiskFactor",
+                "name": "Sex"
             },
             {
-                "@type": "MedicalSymptom",
-                "name": "reduce power of hands"
+                "@type": "MedicalRiskFactor",
+                "name": "Family history"
             },
             {
-                "@type": "MedicalSymptom",
-                "name": "Redness and warmth"
+                "@type": "MedicalRiskFactor",
+                "name": "Obesity"
+            }
+        ],
+        "name": "Rheumatoid Arthritis",
+        "possibleTreatment": [
+            {
+                "@type": "Drug",
+                "name": "Baricitinib"
             },
             {
-                "@type": "MedicalSymptom",
-                "name": "Stiffness"
+                "@type": "Drug",
+                "name": "Etanercept"
+            },
+            {
+                "@type": "Drug",
+                "name": "JAK inhibitors"
+            },
+            {
+                "@type": "Drug",
+                "name": "Tofacitinib"
+            }
+        ],
+        "secondaryPrevention": [
+            {
+                "@type": "LifestyleModification",
+                "name": "Protect your joints"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Reducing stress"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Healthy eating"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Adequate physical exercise"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Eat anti-inflammatory foods"
             }
         ]
     },
-    "name": "Rheumatoid Arithritis",
-    "possibleTreatment": [{
-            "@type": "Drug",
-            "name": "baricitinib"
-        },
-        {
-            "@type": "Drug",
-            "name": "etanercept"
-        } {
-            "@type": "Drug",
-            "name": "JAK inhibitors"
-        } {
-            "@type": "Drug",
-            "name": "tofcitim=nib"
-        } {
-            "@type": "Drug",
-            "name": "adalimbumab"
-        } {
-            "@type": "Drug",
-            "name": "certoli-zumab"
-        }
-    ]
-}
-}],
-"causes": [{
-        "@type": "MedicalRiskFactor",
-        "name": "Age"
-    },
-    {
-        "@type": "MedicalRiskFactor",
-        "name": "Environment"
-    },
-    {
-        "@type": "MedicalRiskFactor",
-        "name": "Sex"
-    },
-    {
-        "@type": "MedicalRiskFactor",
-        "name": "Family history"
-    },
-    {
-        "@type": "MedicalRiskFactor",
-        "name": "Obesity"
-    }
-],
-"secondaryPrevention": [{
-        "@type": "LifestyleModification",
-        "name": "Protect your joints"
-    },
-    {
-        "@type": "LifestyleModification",
-        "name": "Reducing stress"
-    },
-    {
-        "@type": "LifestyleModification",
-        "name": "Healthy eating"
-    },
-    {
-        "@type": "LifestyleModification",
-        "name": "Adequate physical exercise"
-    },
-    {
-        "@type": "LifestyleModification",
-        "name": "Eat anti-inflammatory foods"
-    }
-]
-},
-"name": "RA Matters",
-"typicalAgeRange": "18-",
-"inLanguage": "English",
-"description": "To understand life with rheumatoid arthritis, Lilly created RA Matters, a traditional and social media survey of over 6,200 people across eight countries.",
-"headline": "What is Rheumatoid Arithritis",
-"lastReviewed": "2018-11-23",
-"dateModified": "2017-11-23"
-} <
-/script> <
-script type = "application/ld+json" > {
-        "@context": "http://schema.org",
+    "name": "Rheumatoid Arthritis Matters",
+    "audience": "Patient",
+    "description": "To understand life with rheumatoid arthritis, Lilly created RA Matters, a traditional and social media survey of over 6,200 people across eight countries.",
+    "breadcrumb": {
+        "@context": "http://schema.org/",
         "@type": "BreadcrumbList",
-        "itemListElement": [{
+        "itemListElement": [
+            {
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
@@ -154,7 +145,7 @@ script type = "application/ld+json" > {
                 "position": 2,
                 "item": {
                     "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
-                    "name": "Rheumatoid Arithritis"
+                    "name": "Rheumatoid Arthritis"
                 }
             },
             {
@@ -166,3 +157,5 @@ script type = "application/ld+json" > {
                 }
             }
         ]
+    }
+}
