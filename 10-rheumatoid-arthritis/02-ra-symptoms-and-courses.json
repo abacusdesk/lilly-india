@@ -1,4 +1,4 @@
-< script type = "application/ld+json" > {
+<script type = "application/ld+json" > {
     "@context": "http://schema.org",
     "@type": "MedicalWebPage",
     "publisher": {
@@ -34,7 +34,8 @@
                 "@type": "MedicalCondition",
                 "name": "Rheumatoid Arthritis"
             },
-            "distinguishingSign": [{
+            "distinguishingSign": [
+                {
                     "@type": "MedicalSymptom",
                     "name": "Joint pain"
                 },
@@ -60,7 +61,8 @@
                 }
             ]
         },
-        "causes": [{
+        "causes": [
+            {
                 "@type": "MedicalRiskFactor",
                 "name": "Age"
             },
@@ -82,7 +84,8 @@
             }
         ],
         "name": "Rheumatoid Arthritis",
-        "possibleTreatment": [{
+        "possibleTreatment": [
+            {
                 "@type": "Drug",
                 "name": "Baricitinib"
             },
@@ -99,7 +102,8 @@
                 "name": "Tofacitinib"
             }
         ],
-        "secondaryPrevention": [{
+        "secondaryPrevention": [
+            {
                 "@type": "LifestyleModification",
                 "name": "Protect your joints"
             },
@@ -121,13 +125,14 @@
             }
         ]
     },
-    "name": "Rheumatoid Arthritis - Symptoms & Course",
+    "name": "Symptoms & Course of Rheumatoid Arthritis",
     "audience": "Patient",
     "description": "The symptoms of rheumatoid arthritis can come and go. Each person with RA is affected differently such symptoms including pain, stiffness, fatigue, weakness, and more.",
     "breadcrumb": {
         "@context": "http://schema.org/",
         "@type": "BreadcrumbList",
-        "itemListElement": [{
+        "itemListElement": [
+            {
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
