@@ -1,11 +1,9 @@
-<script type = "application/ld+json"> {
+{
     "@context": "http://schema.org",
     "@type": "MedicalWebPage",
     "publisher": {
         "@type": "Organization",
         "name": "Eli Lilly and Company India",
-        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
         "url": "https://www.lillyindia.co.in/",
         "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
         "sameAs": [
@@ -36,8 +34,7 @@
                 "@type": "MedicalCondition",
                 "name": "Rheumatoid Arthritis"
             },
-            "distinguishingSign": [
-                {
+            "distinguishingSign": [{
                     "@type": "MedicalSymptom",
                     "name": "Joint pain"
                 },
@@ -63,17 +60,37 @@
                 }
             ]
         },
-        "name": "Rheumatoid Arthritis",
-        "possibleTreatment": [
+        "causes": [{
+                "@type": "MedicalRiskFactor",
+                "name": "Age"
+            },
             {
+                "@type": "MedicalRiskFactor",
+                "name": "Environment"
+            },
+            {
+                "@type": "MedicalRiskFactor",
+                "name": "Sex"
+            },
+            {
+                "@type": "MedicalRiskFactor",
+                "name": "Family history"
+            },
+            {
+                "@type": "MedicalRiskFactor",
+                "name": "Obesity"
+            }
+        ],
+        "name": "Rheumatoid Arthritis",
+        "possibleTreatment": [{
                 "@type": "Drug",
                 "name": "Baricitinib"
             },
             {
                 "@type": "Drug",
                 "name": "Etanercept"
-                },
-            { 
+            },
+            {
                 "@type": "Drug",
                 "name": "JAK inhibitors"
             },
@@ -81,83 +98,59 @@
                 "@type": "Drug",
                 "name": "Tofacitinib"
             }
-            
+        ],
+        "secondaryPrevention": [{
+                "@type": "LifestyleModification",
+                "name": "Protect your joints"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Reducing stress"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Healthy eating"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Adequate physical exercise"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Eat anti-inflammatory foods"
+            }
+        ]
+    },
+    "name": "Rheumatoid Arthritis Diseases Frequency and Causes",
+    "audience": "Patient",
+    "description": "Rheumatoid Arthritis is an autoimmune disorder which occurs when the immune system attacks the linings of your joints, ultimately weakening and stretching them.",
+    "breadcrumb": {
+        "@context": "http://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
+                    "name": "Rheumatoid Arthritis"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/frequency-and-etiology.aspx.",
+                    "name": "Frequency and Causes"
+                }
+            }
         ]
     }
 }
-],
-"causes": [
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Age"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Environment"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Sex"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Family history"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Obesity"
-}
-],
-"secondaryPrevention": [
-{
-    "@type": "LifestyleModification",
-    "name": "Protect your joints"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Reducing stress"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Healthy eating"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Adequate physical exercise"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Eat anti-inflammatory foods"
-}
-]
-},
-"name": "What is Rheumatoid Arthritis",
-"typicalAgeRange": "18-",
-"inLanguage": "English",
-"description": "Rheumatoid Arthritis is a chronic inflammatory disease that primarily affects the joints. It's an autoimmune condition in which the immune system attacks the linings of joints.",
-"headline": "What is Rheumatoid Arthritis",
-"lastReviewed": "2018-11-23",
-"dateModified": "2017-11-23"
-} <
-/script> <
-script type = "application/ld+json" > {
-"@context": "http://schema.org",
-"@type": "BreadcrumbList",
-"itemListElement": [
-{
-"@type": "ListItem",
-"position": 1,
-"item": {
-    "@id": "https://www.lillyindia.co.in",
-    "name": "Home"
-}
-},
-{
-"@type": "ListItem",
-"position": 2,
-"item": {
-    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
-    "name": "Rheumatoid Arthritis"
-}
-}
-]
