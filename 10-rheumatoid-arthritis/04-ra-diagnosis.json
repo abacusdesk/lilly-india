@@ -1,11 +1,9 @@
-<script type = "application/ld+json"> {
+<script type = "application/ld+json" > {
     "@context": "http://schema.org",
     "@type": "MedicalWebPage",
     "publisher": {
         "@type": "Organization",
         "name": "Eli Lilly and Company India",
-        "legalName": "Eli Lilly and Company (India) Pvt. Ltd.",
-        "description": "Eli Lilly and Company in India, Sri Lanka, Nepal, and Bangladesh",
         "url": "https://www.lillyindia.co.in/",
         "logo": "https://www.lillyindia.co.in/_Global-Assets/img/lilly_logo.png",
         "sameAs": [
@@ -36,8 +34,7 @@
                 "@type": "MedicalCondition",
                 "name": "Rheumatoid Arthritis"
             },
-            "distinguishingSign": [
-                {
+            "distinguishingSign": [{
                     "@type": "MedicalSymptom",
                     "name": "Joint pain"
                 },
@@ -63,9 +60,29 @@
                 }
             ]
         },
-        "name": "Rheumatoid Arthritis",
-        "possibleTreatment": [
+        "causes": [{
+                "@type": "MedicalRiskFactor",
+                "name": "Age"
+            },
             {
+                "@type": "MedicalRiskFactor",
+                "name": "Environment"
+            },
+            {
+                "@type": "MedicalRiskFactor",
+                "name": "Sex"
+            },
+            {
+                "@type": "MedicalRiskFactor",
+                "name": "Family history"
+            },
+            {
+                "@type": "MedicalRiskFactor",
+                "name": "Obesity"
+            }
+        ],
+        "name": "Rheumatoid Arthritis",
+        "possibleTreatment": [{
                 "@type": "Drug",
                 "name": "Baricitinib"
             },
@@ -81,90 +98,59 @@
                 "@type": "Drug",
                 "name": "Tofacitinib"
             }
+        ],
+        "secondaryPrevention": [{
+                "@type": "LifestyleModification",
+                "name": "Protect your joints"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Reducing stress"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Healthy eating"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Adequate physical exercise"
+            },
+            {
+                "@type": "LifestyleModification",
+                "name": "Eat anti-inflammatory foods"
+            }
+        ]
+    },
+    "name": "Rheumatoid Arthritis - How is the Diagnosis Made",
+    "audience": "Patient",
+    "description": "Arriving at an RA diagnosis takes time and persistence. It’s important to seek care from a doctor who has experience in diagnosing and treating RA",
+    "breadcrumb": {
+        "@context": "http://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
+                    "name": "Rheumatoid Arthritis"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/frequency-and-etiology.aspx",
+                    "name": "How is the Diagnosis Made"
+                }
+            }
         ]
     }
 }
-],
-"causes": [
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Age"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Environment"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Sex"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Family history"
-},
-{
-    "@type": "MedicalRiskFactor",
-    "name": "Obesity"
-}
-],
-"secondaryPrevention": [
-{
-    "@type": "LifestyleModification",
-    "name": "Protect your joints"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Reducing stress"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Healthy eating"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Adequate physical exercise"
-},
-{
-    "@type": "LifestyleModification",
-    "name": "Eat anti-inflammatory foods"
-}
-]
-},
-"name": "How is the Diagnosis Made?",
-"typicalAgeRange": "18-",
-"inLanguage": "English",
-"description": "Diagnosis of rheumatoid arthritis starts with questions about your medical history, followed by a physical examination by a rheumatologist",
-"headline": "What is Rheumatoid Arthritis",
-"lastReviewed": "2018-11-23",
-"dateModified": "2017-11-23"
-} <
-/script> <
-script type = "application/ld+json" > {
-"@context": "http://schema.org",
-"@type": "BreadcrumbList",
-"itemListElement": [
-{
-"@type": "ListItem",
-"position": 1,
-"item": {
-    "@id": "https://www.lillyindia.co.in",
-    "name": "Home"
-}
-},
-{
-"@type": "ListItem",
-"position": 2,
-"item": {
-    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/index.aspx",
-    "name": "Rheumatoid Arthritis"
-}
-},
-{
-    "@type": "ListItem",
-    "position": 3,
-    "item": {
-        "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/how-is-the-diagnosis-made.aspx.",
-        "name": "How is the diagnosis made?"
-    }
-}
-]
