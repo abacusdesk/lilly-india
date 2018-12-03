@@ -121,9 +121,9 @@
             }
         ]
     },
-    "name": "Tips for Patients With Rheumatoid Arthritis",
+    "name": "Symptoms & Course of Rheumatoid Arthritis",
     "audience": "Patient",
-    "description": "Here are some healthy tips for patients with rheumatoid joint pain that includes work out, diet, decreasing pressure and taking your medications and going to take your physical checkup.",
+    "description": "The symptoms of rheumatoid arthritis can come and go. Each person with RA is affected differently such symptoms including pain, stiffness, fatigue, weakness, and more.",
     "breadcrumb": {
         "@context": "http://schema.org/",
         "@type": "BreadcrumbList",
@@ -147,8 +147,8 @@
                 "@type": "ListItem",
                 "position": 3,
                 "item": {
-                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/living-with-rheumatoid-arthritis.aspx",
-                    "name": "Tips for Patients"
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/symptoms-and-course.aspx",
+                    "name": "Symptoms & Course"
                 }
             }
         ]
