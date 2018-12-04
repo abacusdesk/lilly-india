@@ -121,7 +121,7 @@
             }
         ]
     },
-    "name": "Rheumatoid Arthritis - How is the Diagnosis Made",
+    "name": "Rheumatoid Arthritis - How is the Diagnosis Made?",
     "audience": "Patient",
     "description": "Arriving at an RA diagnosis takes time and persistence. It’s important to seek care from a doctor who has experience in diagnosing and treating RA",
     "breadcrumb": {
@@ -147,8 +147,8 @@
                 "@type": "ListItem",
                 "position": 3,
                 "item": {
-                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/frequency-and-etiology.aspx",
-                    "name": "How is the Diagnosis Made"
+                    "@id": "https://www.lillyindia.co.in/en/therapy-area/rheumatoid-arthritis/how-is-the-diagnosis-made.aspx",
+                    "name": "How is the Diagnosis Made?"
                 }
             }
         ]
